@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AgroFito" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/green_dark</item>
+        <item name="colorAccent">@color/lime</item>
+        <item name="android:statusBarColor">@color/green_dark</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+</resources>

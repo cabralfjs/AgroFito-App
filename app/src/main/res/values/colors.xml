@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_dark">#0f3d22</color>
+    <color name="green">#1a5c35</color>
+    <color name="lime">#7cb83a</color>
+    <color name="blue_dark">#2d5a7a</color>
+    <color name="cream">#f4f0e8</color>
+    <color name="paper">#fdfaf4</color>
+    <color name="ink">#18180f</color>
+    <color name="muted">#6b6b5a</color>
+    <color name="border">#d6d0c4</color>
+    <color name="tag_bg">#e6f2da</color>
+    <color name="white">#FFFFFF</color>
+</resources>
